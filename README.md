@@ -1,0 +1,2 @@
+# SporTesisi_Veritabani
+SPOR TESİSİ VERİ TABANI UYGULAMASI
